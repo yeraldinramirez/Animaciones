@@ -1,0 +1,1 @@
+Es una página web con animaciones, trata sobre los extraterrestes, tiene 4 secciones, una con el inicio, otra con los cuentos que les proporcionamos, la pagina del cuento, el registro y el de contactanos.
